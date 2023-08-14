@@ -10,7 +10,7 @@ import shutil as sh
 ## Dodać kopiowanie z zamienianiem
 ## Kopiowanie zwykłe < zrobione
 ## Kopiowanie z atrybutem hidden
-## Test a
+## Test ab
 class App( customtkinter.CTk ) :
     def __init__(self) :
         super().__init__()
